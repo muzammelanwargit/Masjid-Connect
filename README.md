@@ -86,14 +86,14 @@ The purpose of "Masjid-Connect" is to centralize and modernize mosque management
 ![][image1]
 
 ### **2.4 Project Initiation**
- **Duration:** November Week 1 – Week 2
- **Responsible Member:** Aisar Nasrun Bin Ramjee
- **Key Activities:**
+* **Duration:** November Week 1 – Week 2
+* **Responsible Member:** Aisar Nasrun Bin Ramjee
+* **Key Activities:**
     * **Problem Identification:** Identified the main issue of "information overload" in mosque communities due to fragmented nature of communication channels like WhatsApp and physical boards.
     * **Objective Definition:** Established the primary goal to centralize mosque management and digitize individual that donates.
     * **Milestone:** Completion of the Ideal Proposal and Project Setup.
 
-### **2.5Requirement Analysis**
+### **2.5 Requirement Analysis**
 * **Duration:** November Week 2 – Week 3
 * **Responsible Member:** Farhan Haikal Bin Hishamuddin
 * **Key Activities:**
